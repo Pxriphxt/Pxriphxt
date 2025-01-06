@@ -23,7 +23,7 @@ Phuriphat Phaosri, 19 years old, currently studying in Vocational Certificate Le
 
 ### Badges
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pxriphxt&label=Profile%20views&color=0e75b6&style=flat" alt="pxriphxt" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pxriphxt" alt="pxriphxt" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,5 +32,3 @@ Phuriphat Phaosri, 19 years old, currently studying in Vocational Certificate Le
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pxriphxt&show_icons=true&locale=en&layout=compact" alt="pxriphxt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxriphxt&show_icons=true&locale=en" alt="pxriphxt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pxriphxt&" alt="pxriphxt" /></p>
