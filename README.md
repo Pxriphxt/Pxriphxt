@@ -7,7 +7,7 @@ Student
 Phuriphat Phaosri, 19 years old, currently studying in Vocational Certificate Level 1 (High Vocational Certificate) at Phrae Technical College.
 
 * 🌍  I'm based in Phare,Thailand
-* ✉️  You can contact me at [poolripat159@gmail.com](mailto:poolripat159@gmail.com)
+* ✉️  You can contact me at [puriphatpaoshi@gmail.com](mailto:puriphatpaoshi@gmail.com)
 
 ### Skills
 
